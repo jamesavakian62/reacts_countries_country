@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# reactjs_country_names
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[](https://64c1b49ebb98ee2ca5119b65--calm-jalebi-987597.netlify.app/)
+
+![Screenshot 2023-07-26 at 5 02 50 PM](https://github.com/jamesavakian62/reacts_countries_country/assets/92414210/444b180b-b490-4b92-9c22-c116480e07a7)
+
+This project was bootstrapped with [Create React App](https://gith
+ub.com/facebook/create-react-app).
 
 ## Available Scripts
 
